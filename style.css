@@ -83,11 +83,17 @@ body{
     outline: none;
     border: none;
 }
+.btn button:hover{
+    background-color: orange;
+    color: #fff;
+    cursor: pointer;
+}
 .btn p{
     text-align: center;
     color: hsl(224, 23%, 55%);
    
 }
+
 .attribution {
     font-size: 11px;
     text-align: center;
